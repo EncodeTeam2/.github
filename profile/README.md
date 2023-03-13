@@ -8,4 +8,4 @@ Check our work:
 
 - 🪙 [Token Sale:](https://github.com/EncodeTeam2/week3Project) ERC20 and ERC721 EIP's standards implementation through a token sale
 
-- 📱 [Votind dApp:](https://github.com/EncodeTeam2/week3Project) Fullstack Voting dApp application that has 3 layers: Backend, Smart contract and Frontend
+- 📱 [Votind dApp:](https://github.com/EncodeTeam2/week4project) Fullstack Voting dApp application that has 3 layers: Backend, Smart contract and Frontend
